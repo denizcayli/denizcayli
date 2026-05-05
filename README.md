@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a Computer Programming graduate currently working on becoming a frontend developer. My goal isn't just to write code — it's to build beautiful, functional things. I love working at the intersection of design and development.<br>🌱 Currently learning HTML, CSS and JavaScript<br>🎯 Goal: Become a Frontend Developer<br>🎨 I have a strong design sense and care deeply about visual details<br>🚀 Goals<br>✅ Learn HTML & CSS<br>🔄 Learn JavaScript<br><br>⏳ Learn React<br>⏳ Design & code integration with Figma<br>⏳ Land my first frontend job<br><br>
+I'm a Computer Programming graduate currently working on becoming a frontend developer. My goal isn't just to write code — it's to build beautiful, functional things. I love working at the intersection of design and development.<br><br><br>🌱 Currently learning HTML, CSS and JavaScript<br>🎯 Goal: Become a Frontend Developer<br>🎨 I have a strong design sense and care deeply about visual details<br>🚀 Goals<br>✅ Learn HTML & CSS<br>🔄 Learn JavaScript<br><br>⏳ Learn React<br>⏳ Design & code integration with Figma<br>⏳ Land my first frontend job<br><br>
 
 
 ## 🌐 Socials:
