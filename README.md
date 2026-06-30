@@ -4,7 +4,9 @@
 I'm a Computer Programming graduate on a mission to become a highly skilled Frontend Developer. I don’t just write code; I craft seamless digital experiences at the intersection of aesthetic design and robust functionality. I am deeply passionate about building scalable web applications.
 
 🌱 **Currently learning:** Advanced React patterns, Redux, and Tailwind CSS.
-🎯 **Goal:** Transition into a professional Junior Frontend Developer role by the end of August 2026.
+<br>
+🎯 **Goal:** Transition into a professional Junior Frontend Developer role by the end of 2026.
+<br>
 🎨 **Philosophy:** Bridging the gap between creative UI/UX designs and clean, maintainable code.
 
 ### 🚀 Roadmap:
