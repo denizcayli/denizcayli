@@ -7,7 +7,7 @@
 <br/>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Righteous&size=32&pause=1200&color=B39DDB&center=true&vCenter=true&width=420&height=55&lines=Hi+there!;Deniz+%C3%87ayl%C4%B1;Mobile+Frontend+Developer" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Righteous&size=32&pause=500&color=B39DDB&center=true&vCenter=true&width=420&height=55&lines=Hi+there!;Deniz+%C3%87ayl%C4%B1;Mobile+Frontend+Developer" />
 </h1>
 
 <h3 align="center">Computer Programming Graduate & Aspiring Frontend / Mobile Developer</h3>
@@ -44,12 +44,16 @@ Hakkımda merak ettiğin başka bir şey varsa sorabilirsin, profili ona göre d
 <h2 align="center">Roadmap</h2>
 <br/>
 <div align="center">
-✅ **HTML & CSS, JavaScript, Tailwind CSS**  
-✅ **React & Redux**  
-🔄 **React Native & Mobile App Development**  
-⏳ **Advanced Component Architecture**  
-⏳ **Figma-to-Code Workflow**  
-🎯 **Land my first frontend / mobile developer job**
+
+| | |
+|:---|:---|
+| ● | **HTML & CSS, JavaScript, Tailwind CSS** — Completed |
+| ● | **React & Redux** — Completed |
+| ◐ | **React Native & Mobile App Development** — In Progress |
+| ○ | **Advanced Component Architecture** — Upcoming |
+| ○ | **Figma-to-Code Workflow** — Upcoming |
+| ○ | **Land my first frontend / mobile developer job** — Goal |
+
 </div>
 <br/>
 
@@ -69,6 +73,13 @@ Hakkımda merak ettiğin başka bir şey varsa sorabilirsin, profili ona göre d
   <img width="390" src="https://github-readme-stats-denizcaylis-projects.vercel.app/api?username=denizcayli&theme=aura&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" />
   <br/><br/>
   <img width="325" align="center" src="https://github-readme-stats-denizcaylis-projects.vercel.app/api/top-langs/?username=denizcayli&theme=aura&hide_border=false&include_all_commits=true&layout=compact" alt="Top Languages" />
+</div>
+<br/><br/>
+
+<h2 align="center">Contribution Activity</h2>
+<br/>
+<div align="center">
+  <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=denizcayli&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
 </div>
 <br/><br/>
 
