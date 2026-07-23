@@ -1,13 +1,13 @@
 
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/c5d194a4-956a-4a7b-a06a-5e2612f16b9f" alt="klavye" width="540" style="max-height: 180px; object-fit: cover; border-radius: 54px;" />
+  <img src="https://github.com/user-attachments/assets/c5d194a4-956a-4a7b-a06a-5e2612f16b9f" alt="klavye" width="640" style="max-height: 180px; object-fit: cover; border-radius: 54px;" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img width="540" src="https://readme-typing-svg.demolab.com/?font=Righteous&size=32&pause=500&color=B39DDB&center=true&vCenter=true&width=440&height=45&lines=Hi+there!;I'm+Deniz+%C3%87ayl%C4%B1;Frontend+and+Mobile+Developer" />
+  <img width="640" src="https://readme-typing-svg.demolab.com/?font=Righteous&size=32&pause=500&color=B39DDB&center=true&vCenter=true&width=440&height=45&lines=Hi+there!;I'm+Deniz+%C3%87ayl%C4%B1;Frontend+and+Mobile+Developer" />
 </div>
 
 <h3 align="center">Computer Programmer &  Frontend / Mobile Developer</h3>
