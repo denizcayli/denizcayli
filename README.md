@@ -7,13 +7,10 @@
 <br/>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Righteous&size=32&pause=1200&color=C77DFF&center=true&vCenter=true&width=300&height=55&lines=Hi+There!+%F0%9F%91%8B" />
-  <img src="https://readme-typing-svg.demolab.com/?font=Righteous&size=32&pause=1200&color=FF6EC7&center=true&vCenter=true&width=340&height=55&lines=I'm+Deniz+%C3%87ayl%C4%B1!" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Righteous&size=32&pause=1200&color=B39DDB&center=true&vCenter=true&width=420&height=55&lines=Hi+there!;Deniz+%C3%87ayl%C4%B1;Mobile+Frontend+Developer" />
 </h1>
 
-<h3 align="center">💫 Computer Programming Graduate & Aspiring Frontend / Mobile Developer 💫</h3>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,100:FF6EC7&height=3&width=100%" />
+<h3 align="center">Computer Programming Graduate & Aspiring Frontend / Mobile Developer</h3>
 
 <div align="center">
 
@@ -23,9 +20,9 @@
 
 Kod dışında zamanımın bir kısmı seramik ve kil işlerine, mutfakta yeni tarifler denemeye (evde suşi yapmayı severim) ve iyi bir espresso eşliğinde tasarım/ürün incelemelerine gidiyor. Bu ilgi alanları aslında işime de sızıyor: detaya dikkat ve "doğru hissettirene kadar dene" yaklaşımı hem seramikte hem arayüz tasarımında aynı refleks.
 
-🌱 **Şu an öğrendiklerim:** Advanced React patterns, Redux, React Native, Tailwind CSS
-🎯 **2026 hedefi:** Junior Frontend & Mobile Developer olarak profesyonel bir role geçiş
-🎨 **Yaklaşımım:** Yaratıcı UI/UX tasarımı ile temiz, sürdürülebilir kod arasında köprü kurmak
+**Şu an öğrendiklerim:** Advanced React patterns, Redux, React Native, Tailwind CSS
+**2026 hedefi:** Junior Frontend & Mobile Developer olarak profesyonel bir role geçiş
+**Yaklaşımım:** Yaratıcı UI/UX tasarımı ile temiz, sürdürülebilir kod arasında köprü kurmak
 
 Hakkımda merak ettiğin başka bir şey varsa sorabilirsin, profili ona göre de güncelleyebilirim.
 
@@ -44,9 +41,7 @@ Hakkımda merak ettiğin başka bir şey varsa sorabilirsin, profili ona göre d
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,100:FF6EC7&height=3&width=100%" />
-
-<h2 align="center">🚀 Roadmap 🚀</h2>
+<h2 align="center">Roadmap</h2>
 <br/>
 <div align="center">
 ✅ **HTML & CSS, JavaScript, Tailwind CSS**  
@@ -54,22 +49,20 @@ Hakkımda merak ettiğin başka bir şey varsa sorabilirsin, profili ona göre d
 🔄 **React Native & Mobile App Development**  
 ⏳ **Advanced Component Architecture**  
 ⏳ **Figma-to-Code Workflow**  
-🚀 **Land my first frontend / mobile developer job**
+🎯 **Land my first frontend / mobile developer job**
 </div>
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,100:FF6EC7&height=3&width=100%" />
-
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">Languages-Frameworks-Tools</h2>
 <br/>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,tailwind,firebase,androidstudio,figma,git,github" />
+  <marquee behavior="scroll" direction="left" scrollamount="5">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,tailwind,firebase,androidstudio,figma,git,github" />
+  </marquee>
 </div>
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,100:FF6EC7&height=3&width=100%" />
-
-<h2 align="center">⚡ GitHub Stats ⚡</h2>
+<h2 align="center">GitHub Stats</h2>
 <br/>
 <div align="center">
   <img width="390" src="https://streak-stats.demolab.com/?user=denizcayli&theme=aura&hide_border=false" alt="GitHub Streak" />
@@ -79,16 +72,11 @@ Hakkımda merak ettiğin başka bir şey varsa sorabilirsin, profili ona göre d
 </div>
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,100:FF6EC7&height=3&width=100%" />
-
-<h2 align="center">✍️ Random Dev Quote ✍️</h2>
+<h2 align="center">Random Dev Quote</h2>
 <br/>
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
 </div>
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,100:FF6EC7&height=3&width=100%" />
 <br/>
 
 <div align="center">
