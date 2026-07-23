@@ -7,7 +7,7 @@
 <br/>
 
 <div align="center">
-  <img width="540" src="https://readme-typing-svg.demolab.com/?font=Righteous&size=32&pause=500&color=B39DDB&center=true&vCenter=true&width=440&height=75&lines=Hi+there!;Deniz+%C3%87ayl%C4%B1;Frontend+and+Mobile+Developer" />
+  <img width="540" src="https://readme-typing-svg.demolab.com/?font=Righteous&size=32&pause=500&color=B39DDB&center=true&vCenter=true&width=440&height=125&lines=Hi+there!;Deniz+%C3%87ayl%C4%B1;Frontend+and+Mobile+Developer" />
 </div>
 
 <h3 align="center">Computer Programmer &  Frontend / Mobile Developer</h3>
@@ -20,7 +20,6 @@
 
 - 24 years old, Computer Programming graduate based in Istanbul, positioning myself as a Frontend & Mobile Developer.
 - I care about more than just making things work — I care about how the experience feels on screen, balancing aesthetics with solid engineering.
-- Completed the 320-hour Frontend Development program at İTO SoftITo Software & IT Academy, and joined the Google AI and Technology Academy on a full scholarship.
 - Currently working toward becoming an "AI-driven" developer — using tools like Cursor, Copilot, and v0.dev as a productivity layer, not a shortcut around the craft.
 - Outside of code, I spend time on ceramics and pottery, trying new recipes (I love making sushi at home), and browsing design/product reviews over a good espresso. That same "keep tweaking until it feels right" instinct shows up in both my ceramics and my interface design.
 
