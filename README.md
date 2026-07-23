@@ -46,11 +46,6 @@ Feel free to ask if you're curious about anything else — I'll keep this profil
 
 <br/>
 
-<h2 align="center">Roadmap</h2>
-<br/>
-<div align="center">
-
-
 </div>
 <br/>
 
