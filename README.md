@@ -56,19 +56,7 @@ Feel free to ask if you're curious about anything else — I'll keep this profil
 </div>
 <br/>
 
-<h2 align="center">GitHub Stats</h2>
-<br/>
-<div align="center">
-  <img width="390" src="https://streak-stats.demolab.com/?user=denizcayli&theme=aura&hide_border=false" alt="GitHub Streak" />
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=denizcayli&theme=aura&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" />
-  <br/><br/>
-  <img width="325" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=denizcayli&theme=aura&hide_border=false&include_all_commits=true&layout=compact" alt="Top Languages" />
-</div>
-<br/><br/>
-
-<div align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://komarev.com/ghpvc/?username=denizcayli&color=7f5af0&style=flat-square" alt="Profile Views" />
-  </a>
-</div>
-<br/>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=denizcayli&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=denizcayli&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=denizcayli&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
