@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=denizcayli.denizcayli" />
+
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/c5d194a4-956a-4a7b-a06a-5e2612f16b9f" alt="klavye" width="540" style="max-height: 180px; object-fit: cover; border-radius: 54px;" />
