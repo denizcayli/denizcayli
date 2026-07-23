@@ -5,30 +5,32 @@
 
 <br>
 
-<!-- İSTEDİĞİNİZ YAZIP-SİLİNEN ANİMASYON BAŞLIK -->
+<!-- ANİMASYONLU BAŞLIK (YAZIP-SİLİNEN) -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=7F5AF0&center=true&vCenter=true&width=500&lines=Hi+there!+👋;I'm+Deniz+Çaylı;Frontend+%26+Mobile+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=7F5AF0&center=true&vCenter=true&width=550&lines=Hi+there!+👋;Hi,+I'm+Deniz+Çaylı;Frontend+%26+Mobile+Developer" alt="Typing SVG" />
 </div>
 
 <br>
 
-<!-- ABOUT ME - ÖZET BİLGİ (IMAGE_1.PNG TARZI) -->
+<!-- GİRİŞ BİYOGRAFİSİ -->
 <div align="center">
-  <h3>A passionate Computer Programming graduate on a mission to build</h3>
-  <h3>impactful 📱mobile and 💻web applications</h3>
+  <p width="80%">
+    A passionate Computer Programming graduate on a journey to transform complex ideas into intuitive digital experiences. My core strength lies in building scalable, state-managed web applications with <b>React & Redux</b>. Driven by a desire to deliver seamless UI/UX across all screens, I am currently expanding my engineering scope into mobile development with <b>React Native</b>.
+  </p>
 </div>
 
 <br>
 
+<!-- ÖZET MADDELER -->
 <div align="center">
   <table>
     <tr>
       <td align="left">
         <ul>
-          <li>🔭 <b>Current Focus:</b> React Native & iOS/Android development.</li>
-          <li>🌱 <b>Learning Universe:</b> Native mobile modules & advanced State Management.</li>
-          <li>🎨 <b>Core Philosophy:</b> Bridging the gap between pixel-perfect UI/UX and clean code.</li>
-          <li>🎯 <b>Goal:</b> A high-impact developer role by 2026.</li>
+          <li>🔭 <b>Current Focus:</b> React Native & Mobile Architecture.</li>
+          <li>🌱 <b>Learning Universe:</b> Native Modules, Mobile Navigation & Advanced State Management.</li>
+          <li>🎨 <b>Core Philosophy:</b> Bridging the gap between pixel-perfect UI/UX and scalable code.</li>
+          <li>🎯 <b>Goal:</b> High-impact Frontend & Mobile Developer role by 2026.</li>
         </ul>
       </td>
     </tr>
@@ -47,7 +49,7 @@
 
 ---
 
-<!-- TECH STACK (YENİLENMİŞ LOGOLAR) -->
+<!-- TECH STACK -->
 ## 💻 Tech Stack
 
 <p align="left">
@@ -65,7 +67,7 @@
 
 ---
 
-<!-- İSTATİSTİKLER (IMAGE_1.PNG TARZI ORTALANMIŞ VE KARTLI) -->
+<!-- İSTATİSTİKLER -->
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -76,7 +78,7 @@
 
 ---
 
-<!-- KAPANIŞ VE BAĞLANTI -->
+<!-- İLETİŞİM & ZİYARETÇİ -->
 ## 🌐 Connect & Views
 
 <p align="center">
