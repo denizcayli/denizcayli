@@ -7,13 +7,14 @@
 <br/>
 
 <div align="center">
-  <img width="440" src="https://readme-typing-svg.demolab.com/?font=Righteous&size=32&pause=500&color=B39DDB&center=true&vCenter=true&width=440&height=55&lines=Hi+there!;Deniz+%C3%87ayl%C4%B1;Frontend+%26+Mobile+Developer" />
+  <img width="440" src="https://readme-typing-svg.demolab.com/?font=Righteous&size=32&pause=500&color=B39DDB&center=true&vCenter=true&width=440&height=55&lines=Hi+there!;Deniz+%C3%87ayl%C4%B1;Frontend+and+Mobile+Developer" />
 </div>
 
+<h3 align="center">Computer Programming Graduate & Aspiring Frontend / Mobile Developer</h3>
 
 <div align="center">
 
-**About Me**
+**Hi, I'm Deniz**
 
 <div align="left">
 
@@ -39,14 +40,11 @@ Feel free to ask if you're curious about anything else — I'll keep this profil
   <a href="mailto:ddenizcaylii@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
   </a>
-  <a href="https://www.linkedin.com/in/denizcayli/" target="_blank">
+  <a href="https://www.linkedin.com/in/denizcaylii/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
 </div>
 
-<br/>
-
-</div>
 <br/>
 
 <h2 align="center">Languages-Frameworks-Tools</h2>
