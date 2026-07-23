@@ -10,7 +10,6 @@
   <img width="440" src="https://readme-typing-svg.demolab.com/?font=Righteous&size=32&pause=500&color=B39DDB&center=true&vCenter=true&width=440&height=55&lines=Hi+there!;Deniz+%C3%87ayl%C4%B1;Frontend+%26+Mobile+Developer" />
 </div>
 
-<h3 align="center">Computer Programmer  &  Frontend & Mobile Developer</h3>
 
 <div align="center">
 
@@ -51,14 +50,6 @@ Feel free to ask if you're curious about anything else — I'll keep this profil
 <br/>
 <div align="center">
 
-| | |
-|:---|:---|
-| ● | **HTML & CSS, JavaScript, Tailwind CSS** — Completed |
-| ● | **React & Redux** — Completed |
-| ◐ | **React Native & Mobile App Development** — In Progress |
-| ○ | **Advanced Component Architecture** — Upcoming |
-| ○ | **Figma-to-Code Workflow** — Upcoming |
-| ○ | **Land my first frontend / mobile developer job** — Goal |
 
 </div>
 <br/>
