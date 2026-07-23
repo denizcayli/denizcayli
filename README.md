@@ -10,7 +10,7 @@
   <img width="440" src="https://readme-typing-svg.demolab.com/?font=Righteous&size=32&pause=500&color=B39DDB&center=true&vCenter=true&width=440&height=55&lines=Hi+there!;Deniz+%C3%87ayl%C4%B1;Frontend+%26+Mobile+Developer" />
 </div>
 
-<h3 align="center">Computer Programming Graduate & Aspiring Frontend / Mobile Developer</h3>
+<h3 align="center">Computer Programmer  &  Frontend & Mobile Developer</h3>
 
 <div align="center">
 
