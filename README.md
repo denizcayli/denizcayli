@@ -1,14 +1,14 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=denizcayli.denizcayli" />
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/c5d194a4-956a-4a7b-a06a-5e2612f16b9f" alt="klavye" width="55%" style="max-height: 180px; object-fit: cover; border-radius: 14px;" />
+  <img src="https://github.com/user-attachments/assets/c5d194a4-956a-4a7b-a06a-5e2612f16b9f" alt="klavye" width="440" style="max-height: 180px; object-fit: cover; border-radius: 14px;" />
 </div>
 
 <br/>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Righteous&size=32&pause=500&color=B39DDB&center=true&vCenter=true&width=440&height=55&lines=Hi+there!;Deniz+%C3%87ayl%C4%B1;Frontend+%26+Mobile+Developer" />
-</h1>
+<div align="center">
+  <img width="440" src="https://readme-typing-svg.demolab.com/?font=Righteous&size=32&pause=500&color=B39DDB&center=true&vCenter=true&width=440&height=55&lines=Hi+there!;Deniz+%C3%87ayl%C4%B1;Frontend+%26+Mobile+Developer" />
+</div>
 
 <h3 align="center">Computer Programming Graduate & Aspiring Frontend / Mobile Developer</h3>
 
@@ -16,11 +16,15 @@
 
 **About Me**
 
+<div align="left">
+
 - 24 years old, Computer Programming graduate based in Istanbul, positioning myself as a Frontend & Mobile Developer.
 - I care about more than just making things work — I care about how the experience feels on screen, balancing aesthetics with solid engineering.
 - Completed the 320-hour Frontend Development program at İTO SoftITo Software & IT Academy, and joined the Google AI and Technology Academy on a full scholarship.
 - Currently working toward becoming an "AI-driven" developer — using tools like Cursor, Copilot, and v0.dev as a productivity layer, not a shortcut around the craft.
 - Outside of code, I spend time on ceramics and pottery, trying new recipes (I love making sushi at home), and browsing design/product reviews over a good espresso. That same "keep tweaking until it feels right" instinct shows up in both my ceramics and my interface design.
+
+</div>
 
 **Currently learning:** Advanced React patterns, Redux, React Native, Tailwind CSS
 **2026 goal:** Transitioning into a professional Junior Frontend & Mobile Developer role
@@ -75,13 +79,6 @@ Feel free to ask if you're curious about anything else — I'll keep this profil
   <img width="390" src="https://github-readme-stats.vercel.app/api?username=denizcayli&theme=aura&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" />
   <br/><br/>
   <img width="325" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=denizcayli&theme=aura&hide_border=false&include_all_commits=true&layout=compact" alt="Top Languages" />
-</div>
-<br/><br/>
-
-<h2 align="center">Contribution Activity</h2>
-<br/>
-<div align="center">
-  <img width="800" src="https://ghchart.rshah.org/40c463/denizcayli" alt="Contribution Graph" />
 </div>
 <br/><br/>
 
