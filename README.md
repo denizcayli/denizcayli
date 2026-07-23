@@ -7,24 +7,26 @@
 <br/>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Righteous&size=32&pause=500&color=B39DDB&center=true&vCenter=true&width=420&height=55&lines=Hi+there!;Deniz+%C3%87ayl%C4%B1;Mobile+Frontend+Developer" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Righteous&size=32&pause=500&color=B39DDB&center=true&vCenter=true&width=440&height=55&lines=Hi+there!;Deniz+%C3%87ayl%C4%B1;Frontend+%26+Mobile+Developer" />
 </h1>
 
 <h3 align="center">Computer Programming Graduate & Aspiring Frontend / Mobile Developer</h3>
 
 <div align="center">
 
-24 yaşındayım, İstanbul merkezli bir Computer Programming mezunuyum ve kendimi Frontend & Mobile Developer olarak konumlandırıyorum. Kod yazarken sadece işlevi değil, kullanıcının ekranda hissettiği deneyimi de önemsiyorum — estetik ile sağlam mühendislik arasındaki dengeyi kurmaya çalışıyorum.
+**About Me**
 
-İTO SoftITo Yazılım-Bilişim Akademisi'nin 320 saatlik Frontend Development programını tamamladım ve Google AI and Technology Academy'ye tam burslu katıldım. Şu an hedefim, Cursor, Copilot ve v0.dev gibi araçları bir üretkenlik katmanı olarak kullanan, "AI-driven" bir geliştirici olmak — yapay zekayı işi başkasına bırakmak için değil, daha hızlı ve daha temiz üretmek için kullanan biri.
+- 24 years old, Computer Programming graduate based in Istanbul, positioning myself as a Frontend & Mobile Developer.
+- I care about more than just making things work — I care about how the experience feels on screen, balancing aesthetics with solid engineering.
+- Completed the 320-hour Frontend Development program at İTO SoftITo Software & IT Academy, and joined the Google AI and Technology Academy on a full scholarship.
+- Currently working toward becoming an "AI-driven" developer — using tools like Cursor, Copilot, and v0.dev as a productivity layer, not a shortcut around the craft.
+- Outside of code, I spend time on ceramics and pottery, trying new recipes (I love making sushi at home), and browsing design/product reviews over a good espresso. That same "keep tweaking until it feels right" instinct shows up in both my ceramics and my interface design.
 
-Kod dışında zamanımın bir kısmı seramik ve kil işlerine, mutfakta yeni tarifler denemeye (evde suşi yapmayı severim) ve iyi bir espresso eşliğinde tasarım/ürün incelemelerine gidiyor. Bu ilgi alanları aslında işime de sızıyor: detaya dikkat ve "doğru hissettirene kadar dene" yaklaşımı hem seramikte hem arayüz tasarımında aynı refleks.
+**Currently learning:** Advanced React patterns, Redux, React Native, Tailwind CSS
+**2026 goal:** Transitioning into a professional Junior Frontend & Mobile Developer role
+**My approach:** Bridging creative UI/UX design with clean, maintainable code
 
-**Şu an öğrendiklerim:** Advanced React patterns, Redux, React Native, Tailwind CSS
-**2026 hedefi:** Junior Frontend & Mobile Developer olarak profesyonel bir role geçiş
-**Yaklaşımım:** Yaratıcı UI/UX tasarımı ile temiz, sürdürülebilir kod arasında köprü kurmak
-
-Hakkımda merak ettiğin başka bir şey varsa sorabilirsin, profili ona göre de güncelleyebilirim.
+Feel free to ask if you're curious about anything else — I'll keep this profile updated accordingly.
 
 </div>
 
@@ -70,25 +72,18 @@ Hakkımda merak ettiğin başka bir şey varsa sorabilirsin, profili ona göre d
 <br/>
 <div align="center">
   <img width="390" src="https://streak-stats.demolab.com/?user=denizcayli&theme=aura&hide_border=false" alt="GitHub Streak" />
-  <img width="390" src="https://github-readme-stats-denizcaylis-projects.vercel.app/api?username=denizcayli&theme=aura&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" />
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=denizcayli&theme=aura&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" />
   <br/><br/>
-  <img width="325" align="center" src="https://github-readme-stats-denizcaylis-projects.vercel.app/api/top-langs/?username=denizcayli&theme=aura&hide_border=false&include_all_commits=true&layout=compact" alt="Top Languages" />
+  <img width="325" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=denizcayli&theme=aura&hide_border=false&include_all_commits=true&layout=compact" alt="Top Languages" />
 </div>
 <br/><br/>
 
 <h2 align="center">Contribution Activity</h2>
 <br/>
 <div align="center">
-  <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=denizcayli&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
+  <img width="800" src="https://ghchart.rshah.org/40c463/denizcayli" alt="Contribution Graph" />
 </div>
 <br/><br/>
-
-<h2 align="center">Random Dev Quote</h2>
-<br/>
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
-</div>
-<br/>
 
 <div align="center">
   <a href="https://visitcount.itsvg.in">
