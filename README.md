@@ -7,7 +7,7 @@
 <br/>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=7F5AF0&center=true&vCenter=true&width=550&lines=Hi+there!+%F0%9F%91%8B;Hi,+I'm+Deniz+%C3%87ayl%C4%B1;Frontend+%26+Mobile+Developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+%F0%9F%91%8B;+I'm+Deniz+%C3%87ayl%C4%B1!;" />
 </h1>
 
 <h3 align="center">💫 Computer Programming Graduate & Aspiring Frontend / Mobile Developer 💫</h3>
@@ -32,7 +32,10 @@ I'm a Computer Programming graduate on a mission to become a highly skilled Fron
 
 <div align="center"> 
   <a href="mailto:ddenizcaylii@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
+  </a>
+  <a href="https://linkedin.com/in/denizcayli" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
 </div>
 
