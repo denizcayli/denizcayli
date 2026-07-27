@@ -43,7 +43,7 @@ Feel free to ask if you're curious about anything else — I'll keep this profil
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
 </div>
-
+.
 <br/>
 
 <h2 align="center">Languages-Frameworks-Tools</h2>
